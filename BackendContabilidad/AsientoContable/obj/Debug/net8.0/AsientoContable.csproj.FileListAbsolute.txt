@@ -1,0 +1,14 @@
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\bin\Debug\net8.0\AsientoContable.exe
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\bin\Debug\net8.0\AsientoContable.deps.json
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\bin\Debug\net8.0\AsientoContable.runtimeconfig.json
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\bin\Debug\net8.0\AsientoContable.dll
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\bin\Debug\net8.0\AsientoContable.pdb
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\AsientoContable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\AsientoContable.AssemblyInfoInputs.cache
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\AsientoContable.AssemblyInfo.cs
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\AsientoContable.csproj.CoreCompileInputs.cache
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\AsientoContable.dll
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\refint\AsientoContable.dll
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\AsientoContable.pdb
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\AsientoContable.genruntimeconfig.cache
+C:\Users\ramir\Desktop\BackendContabilidad\AsientoContable\obj\Debug\net8.0\ref\AsientoContable.dll
