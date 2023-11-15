@@ -1,0 +1,7 @@
+C:\Users\ramir\source\repos\Prueba2\Global\Global\obj\Debug\Global.csproj.AssemblyReference.cache
+C:\Users\ramir\source\repos\Prueba2\Global\Global\obj\Debug\Global.csproj.CoreCompileInputs.cache
+C:\Users\ramir\source\repos\Prueba2\Global\Global\bin\Debug\Global.exe.config
+C:\Users\ramir\source\repos\Prueba2\Global\Global\bin\Debug\Global.exe
+C:\Users\ramir\source\repos\Prueba2\Global\Global\bin\Debug\Global.pdb
+C:\Users\ramir\source\repos\Prueba2\Global\Global\obj\Debug\Global.exe
+C:\Users\ramir\source\repos\Prueba2\Global\Global\obj\Debug\Global.pdb
